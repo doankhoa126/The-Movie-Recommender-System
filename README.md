@@ -19,5 +19,6 @@ EDA + Collaborative Filtering
 Bùi Thị Ngân Tuyền : 19133066
 
 EDA + Apriori Algorithiom
+
 Introduction
 Hệ thống đề xuất dự đoán khả năng người dùng sẽ ủng hộ một mặt hàng. Dựa trên tìm kiếm của người dùng và tương tác trước đây của người dùng với nguồn dữ liệu mà hệ thống học hỏi (ngoài dữ liệu từ những người dùng khác hoặc xu hướng lịch sử), hệ thống có khả năng đề xuất một mặt hàng cho người dùng. Ví dụ Netflix giới thiệu những bộ phim mà họ nghĩ rằng chúng tôi sẽ thích
